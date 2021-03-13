@@ -11,4 +11,23 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 ("Christmas", 'Fund Raiser', 60000, '12/23/20', '12/27/20');
 
 INSERT INTO users (name, age) VALUES
-('')
+('Vinny', 17),
+('Brianna', 26),
+('Ida', 24),
+('Alex', 33),
+('Amanda', 24),
+('Sophie', 24),
+('Rosey', 29),
+('Victoria', 23),
+('Frank', 21),
+('Hermione', 30),
+('Voldemort', 90),
+('Marisa', 24),
+('Swizzle', 4),
+('Sirius', 36),
+('Albus', 113),
+('Squid', 5),
+('Whale', 6),
+('Pacha', 5),
+('Ena', 24),
+('Katie', 24);
