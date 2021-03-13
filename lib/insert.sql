@@ -9,3 +9,6 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 ('Hall of Fame', 'Music', 100000, '8/23/20', '8/30/20'),
 ('Thanksgiving', 'Fund Raiser', 25000, '11/20/20', '11/25/20'),
 ("Christmas", 'Fund Raiser', 60000, '12/23/20', '12/27/20');
+
+INSERT INTO users (name, age) VALUES
+('')
